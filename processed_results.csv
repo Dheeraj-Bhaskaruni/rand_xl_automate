@@ -1,8 +1,0 @@
-folder,file,"cycle time 1 (Tags starting with ""A"")",cycle time 2 (Tags starting with a number),READ1 (seconds),READ2 (seconds)
-all_folders/a-team reader,default_power_1.csv,2804,3963,22.983606557377048,32.48360655737705
-all_folders/a-team reader,default_power_2.csv,2556,3442,22.22608695652174,29.930434782608696
-all_folders/a-team reader,power150_1.csv,221,38,1.9217391304347826,0.33043478260869563
-all_folders/a-team reader,power150_2.csv,361,79,3.059322033898305,0.6694915254237288
-all_folders/a-team reader,power150_3.csv,302,87,2.4958677685950414,0.71900826446281
-all_folders/a-team reader,power150_4.csv,435,122,3.5080645161290325,0.9838709677419355
-all_folders/a-team reader,power150_5.csv,401,95,3.341666666666667,0.7916666666666666
